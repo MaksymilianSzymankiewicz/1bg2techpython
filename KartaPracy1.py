@@ -26,31 +26,24 @@
 
 # print(a*b*c)
 
+#Zadanie 5
+
+# a = int(input())
+# b = int(input())
+
+# print(2*(a + b)/5)
+
+#zadanie 6
+
+# brutto = int(input())
+# print(brutto / 1.23)
 
 
+#zadanie 7
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# a = int(input())
+# b = int(input())
+# print(a % b)
 
 
 
