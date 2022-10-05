@@ -22,9 +22,14 @@
 # else:
 #   print("NIE")
 
+#Zadanie 4
 
-
-
+# LIMIT = 20
+# waga = int(input("Ile waży twoja roszpunka? "))
+# if waga <= LIMIT:
+#   print("A jedz")
+# else:
+#   print("wyjazd z trasy")
 
 
 
