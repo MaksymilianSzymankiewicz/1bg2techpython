@@ -35,7 +35,29 @@
 # for i in range(1, p+1):
 #   if p % i == 0:
 #     print(i)
-  
+#Zad 4
+# suma = 0
+# for i in range(10, 100):
+#   suma = suma + i
+# print(suma)
+
+#000
+
+# suma = 0
+# for i in range(100, 1000, 2):
+#   suma = suma + i
+# print(suma)
+
+
+#Zad 5
+suma = 0  
+a = int(input())
+
+
+for i in range(1, a + 1):
+  suma = suma + i
+print("brakująca liczba to ", suma - ())
+
 
 
 
