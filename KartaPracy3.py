@@ -50,15 +50,24 @@
 
 
 #Zad 5
-suma = 0  
-a = int(input())
+
+# n = int(input())
+# suma = n * (n+1) // 2
+# for m in range(n-1):
+#   k = int(input())
+#   suma = suma - k
+
+# print(suma, " tej liczby nie podałeś")
 
 
-for i in range(1, a + 1):
-  suma = suma + i
-print("brakująca liczba to ", suma - ())
+#Zad 6
 
+# n = int(input())
+# a, b = 0, 1
 
+# for i in range(n):
+#   a, b = b, a + b 
+#   print(a)
 
 
 
