@@ -69,13 +69,13 @@
 # print(suma)
 
 
-#Zad 10
-# import math
-# for i in range(1, 1000):
-#  if i % 10 == math.sqrt(i):
-#    print(i)
-#  elif i % 100 == math.sqrt(i):
-#    print(i)
+# Zad 10
+import math
+for i in range(1, 1000):
+ if i % 10 == math.sqrt(i):
+   print(i)
+ elif i % 100 == math.sqrt(i):
+   print(i)
 
    
 
