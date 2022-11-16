@@ -11,8 +11,7 @@
 
 # Sprawdzenie czy liczba jest liczbą pierwszą
 # while True:
-#   znak = input("chcesz kolejną liczbę T/N "))
-#   if 
+#  
 #   n = int(input())
 #   a = 0
 #   for i in range(2, n):

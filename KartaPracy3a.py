@@ -27,3 +27,14 @@
 #     print("-"*i, end="")
 #   else :
 #     print("|"*i, end="")
+#Zad 4
+# while True:
+#   n = int(input())
+  
+#   for i in range(0, n):
+#     print("      *      ")
+#     print("   *     *   ")
+#     print("*           *")
+#     print("   *     *   ")
+#     print("      *      ")
+  
