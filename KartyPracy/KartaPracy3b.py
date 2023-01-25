@@ -51,39 +51,52 @@
 # print(a)
 
 #Zad 8
-# W = int(input())
-# L = int(input())
-# c = 0
-# suma = W
-# for i in range(0, L * 12):
-#   c = suma * 0.06 * (1/12)
-#   suma += c
-# print(round(suma,2))
-
-
+# procent=0
+# L=float(input())
+# W0=int(input())
+# W=W0 
+# for i in range(int(L*12)):
+#   W = W + W0*(1+(procent/12)/100)
+# print(W)
 #zad 9
 # n = int(input())
 # suma=0
-# for i in range(21,n+1,100):
+# for i in range(21,n*100,100):
 #  suma+=i
 # print(suma)
 
 
 # Zad 10
-import math
-for i in range(1, 1000):
- if i % 10 == math.sqrt(i):
-   print(i)
- elif i % 100 == math.sqrt(i):
-   print(i)
+# import math
+# for i in range(1, 1000):
+#  if i % 10 == math.sqrt(i):
+#    print(i)
+#  elif i % 100 == math.sqrt(i):
+#    print(i)
 
    
+procent = 6
+L = float(input())
+W0 = int(input())
+W=W0
+for i in range(int(L*12)):
+  W = W + W0*(1+(procent/12)/100)
+print(W)
 
 
+procent = 6
+L=float(input())
+W0=int(input())
+W = W0
+for i in range(int(L*12)):
+  W = W + W0*(1+(procent/12)/100)
+print(W)
 
 
-
-
-
-
-  
+procent=6
+L=float(input())
+W0=int(input())
+W=W0
+for i in range(int(L*12)):
+  W=W+W0*(1+(procent/12)/100)
+print(W)

@@ -29,12 +29,24 @@
 #     print("|"*i, end="")
 #Zad 4
 # while True:
-#   n = int(input())
+# n = int(input())
   
-#   for i in range(0, n):
+# for i in range(0, n):
 #     print("      *      ")
 #     print("   *     *   ")
 #     print("*           *")
 #     print("   *     *   ")
 #     print("      *      ")
-  
+
+#
+#  Zad 5
+# n = int(input())
+# for i in range(0, n):
+#   print("  *")
+#   if i % 2 == 0:
+#     print("--*--")
+
+#Zad 6
+n = int(input())
+
+
